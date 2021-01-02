@@ -1,0 +1,4 @@
+"""
+Currently unable to read PDF files for Internal/Confidential text
+Include an "Are You Sure?" window when closing (X) the "Do you want to redact this data?"
+"""
